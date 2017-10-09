@@ -4,7 +4,7 @@ How to setup developer environment for Julia
 ## STEP 1: Install [ATOM](https://atom.io/) editor
 
 ## STEP 2: Run following commands from terminal
-This installs julia specific ATOM packages.
+Use Atom Package Manager (apm) to install julia specific ATOM packages.
 
 ```
 apm install language-julia
