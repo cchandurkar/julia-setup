@@ -1,5 +1,5 @@
 # julia-setup
-How to setup developer environment for Julia
+How to setup developer environment for Julia. [Install Julia](https://julialang.org/downloads/platform.html) and add it to your path OR set the Julia path in the julia-client settings panel in Atom.
 
 ## STEP 1: Install [ATOM](https://atom.io/) editor
 
