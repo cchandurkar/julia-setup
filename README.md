@@ -1,5 +1,5 @@
 # julia-setup
-How to setup developer environment for Julia. [Install Julia].
+How to setup developer environment for Julia. [Install Julia](https://julialang.org/downloads/platform.html) . Make sure `julia` is on your path. You can later add julia path to julia-client settings in atom.
 
 ## STEP 1: Install [ATOM](https://atom.io/) editor
 
@@ -27,3 +27,5 @@ Open `keymap.cson`. Preferences Menu => Keybindings => click on "your keymap fil
   'tab':       'language-julia:toggle-docstrings'
   'shift-tab': 'language-julia:toggle-all-docstrings'
 ```
+
+
